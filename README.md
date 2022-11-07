@@ -8,7 +8,7 @@ This repository contains SQL, .NET, and React code.
 My role was to create a user's password reset function. I created the coding from the backend to the frontend. Below are processes I utilized to create the user's password reset function
 
     ● Created the necessary procedures in SQL utilizing joins, foreign keys and pagination
-
+    
     ● Construct RESTful API endpoint controllers, services and interfaces using .NET (C#) in order to connect application features to SQL Server relational database; tested with Postman
 
     ● Utilized ReactJS and Bootstrap to create front-end components such as modals, forms, and buttons; allowing for a user-friendly interface
