@@ -1,3 +1,5 @@
+Trainsquare
+
 Trainsquare is a consumer educational and skills platform based on community-sharing knowledge, which allows users to both host in-person workshops and discover and book courses, lessons and activities.
 Trainsquare is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code.
 
